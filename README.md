@@ -1,12 +1,5 @@
 # CyberSecurityChatbotPart2
 
-## Developer Information
-
-* Name: Onalenna Moeketsi
-* Student Number: ST10489247
-* Module: Programming
-* Project: CyberSecurity Awareness Bot – Part 2
-
 ---
 
 # Project Overview
