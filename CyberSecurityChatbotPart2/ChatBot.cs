@@ -12,7 +12,7 @@ namespace CyberSecurityChatbot
         // Memory feature
         private string rememberedTopic = "";
 
-        // Random responses
+        // Random Responses
         private List<string> passwordResponses = new List<string>()
         {
             "Always use strong passwords with letters, numbers, and symbols.",
@@ -114,6 +114,6 @@ namespace CyberSecurityChatbot
 
             // Error Handling
             return "I didn’t quite understand that. Could you rephrase?";
-        }
+        } 
     }
 }
