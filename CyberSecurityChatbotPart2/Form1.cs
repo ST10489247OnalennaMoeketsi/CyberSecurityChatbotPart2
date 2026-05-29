@@ -69,6 +69,6 @@ namespace CyberSecurityChatbot
             }
 
             textBox1.Clear();
-        }
+        } 
     }
 }
